@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.tatamd.urbancare",
+            "sha256_cert_fingerprints": [
+                "AD:62:1E:21:36:DE:5C:3C:85:0C:98:04:1D:4A:AA:61:81:81:4F:F2:3B:2C:5D:EF:7C:29:A6:B4:C3:8D:D9:88"
+            ]
+        }
+    }
+]
